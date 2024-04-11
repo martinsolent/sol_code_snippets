@@ -1,1 +1,2 @@
-# sol_code_snippets
+# SOL Code Snippets
+
